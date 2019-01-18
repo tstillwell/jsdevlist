@@ -8,5 +8,5 @@ MDN
 W3Schools
 > https://www.w3schools.com/JSREF/
 
-Officla tc39 spec
+Official tc39 spec
 > https://tc39.github.io/ecma262/
