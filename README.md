@@ -2,8 +2,9 @@
 
 ## Online Docs
 
-__MDN js Reference__
-https://developer.mozilla.org/en-US/docs/Web/JavaScript
+MDN js Reference
+> https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
 
 https://www.w3schools.com/JSREF/
 
