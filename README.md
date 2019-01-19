@@ -18,3 +18,9 @@ Crockford's JS encyclopedia
 
 Steve Kwan's best practices guide
 > https://github.com/stevekwan/best-practices/blob/master/javascript/best-practices.md
+
+#### Thinkful js best practices
+Part 1
+> https://www.thinkful.com/learn/javascript-best-practices-1
+
+
