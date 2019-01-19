@@ -11,6 +11,9 @@ W3Schools
 Official tc39 spec
 > https://tc39.github.io/ecma262/
 
+> Crockford's JS encyclopedia
+http://www.crockford.com/javascript/encyclopedia/
+
 ## Best practices
 
 Steve Kwan's best practices guide
