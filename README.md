@@ -12,3 +12,6 @@ Official tc39 spec
 > https://tc39.github.io/ecma262/
 
 ## Best practices
+
+Steve Kwan's best practices guide
+> https://github.com/stevekwan/best-practices/blob/master/javascript/best-practices.md
