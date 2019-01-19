@@ -10,3 +10,5 @@ W3Schools
 
 Official tc39 spec
 > https://tc39.github.io/ecma262/
+
+## Best practices
