@@ -23,4 +23,6 @@ Steve Kwan's best practices guide
 Part 1
 > https://www.thinkful.com/learn/javascript-best-practices-1
 
+Part 2
+> https://www.thinkful.com/learn/javascript-best-practices-2/
 
