@@ -52,3 +52,6 @@ The introduction to Reactive Programming you've been missing
 
 The JavaScript Way by Baptiste Pesquet
 > https://github.com/bpesquet/thejsway
+
+Human JavaScript By @HenrikJoreteg
+> http://read.humanjavascript.com/
