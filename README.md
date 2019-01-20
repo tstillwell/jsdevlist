@@ -37,3 +37,7 @@ Eloquent JS by Marjin Haverbeke
 
 JS Notes for Professionals
 > https://goalkicker.com/JavaScriptBook/
+
+Javascript Challenges by Tomas Corral
+> http://tcorral.github.io/javascript-challenges-book/
+
