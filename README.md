@@ -35,3 +35,5 @@ You Don't Know JS by Kyle Simpson
 Eloquent JS by Marjin Haverbeke
 > http://eloquentjavascript.net/
 
+JS Notes for Professionals
+> https://goalkicker.com/JavaScriptBook/
