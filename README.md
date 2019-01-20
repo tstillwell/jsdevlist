@@ -32,4 +32,6 @@ Learning JavaScript Design Patterns by Addy Osmani
 You Don't Know JS by Kyle Simpson
 > https://github.com/getify/You-Dont-Know-JS
 
+Eloquent JS by Marjin Haverbeke
+> http://eloquentjavascript.net/
 
