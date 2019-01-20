@@ -46,3 +46,6 @@ Mixu's single page app book
 
 Mixu's Distributed Systems book
 > http://book.mixu.net/distsys/
+
+The introduction to Reactive Programming you've been missing
+> https://gist.github.com/staltz/868e7e9bc2a7b8c1f754
