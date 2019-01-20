@@ -44,3 +44,5 @@ Javascript Challenges by Tomas Corral
 Mixu's single page app book
 > http://singlepageappbook.com/
 
+Mixu's Distributed Systems book
+> http://book.mixu.net/distsys/
