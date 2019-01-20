@@ -29,6 +29,7 @@ Thinkful js best practices
 Learning JavaScript Design Patterns by Addy Osmani
 > https://addyosmani.com/resources/essentialjsdesignpatterns/book/
 
-
+You Don't Know JS by Kyle Simpson
+> https://github.com/getify/You-Dont-Know-JS
 
 
