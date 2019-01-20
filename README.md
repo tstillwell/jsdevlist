@@ -41,3 +41,6 @@ JS Notes for Professionals
 Javascript Challenges by Tomas Corral
 > http://tcorral.github.io/javascript-challenges-book/
 
+Mixu's single page app book
+> http://singlepageappbook.com/
+
