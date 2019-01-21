@@ -19,6 +19,9 @@ Crockford's JS encyclopedia
 Steve Kwan's best practices guide
 > https://github.com/stevekwan/best-practices/blob/master/javascript/best-practices.md
 
+JavaScript Clean Coding Best Practices
+> https://blog.risingstack.com/javascript-clean-coding-best-practices-node-js-at-scale/
+
 Thinkful js best practices
 > https://www.thinkful.com/learn/javascript-best-practices-1
 
