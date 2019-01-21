@@ -27,6 +27,11 @@ Thinkful js best practices
 
 > https://www.thinkful.com/learn/javascript-best-practices-2
 
+## Tutorials
+
+Modern JavaScript Tutorial
+> https://javascript.info/
+
 ## Free Books
 
 Learning JavaScript Design Patterns by Addy Osmani
