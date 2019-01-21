@@ -64,3 +64,6 @@ JavaScript for Cats
 
 JavaScript Enlightenment by Cody Lindley
 > http://www.javascriptenlightenment.com/
+
+Professor Frisby's Mostly Adequate Guide to Functional Programming
+> https://github.com/MostlyAdequate/mostly-adequate-guide
