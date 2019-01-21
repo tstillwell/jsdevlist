@@ -32,6 +32,9 @@ Thinkful js best practices
 Modern JavaScript Tutorial
 > https://javascript.info/
 
+Stream Handbook
+> https://github.com/substack/stream-handbook
+
 ## Free Books
 
 Learning JavaScript Design Patterns by Addy Osmani
