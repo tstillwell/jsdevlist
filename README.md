@@ -58,3 +58,6 @@ Human JavaScript By @HenrikJoreteg
 
 JavaScript for Cats
 > http://jsforcats.com/
+
+JavaScript Enlightenment by Cody Lindley
+> http://www.javascriptenlightenment.com/
