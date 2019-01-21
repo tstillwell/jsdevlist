@@ -55,3 +55,6 @@ The JavaScript Way by Baptiste Pesquet
 
 Human JavaScript By @HenrikJoreteg
 > http://read.humanjavascript.com/
+
+JavaScript for Cats
+> http://jsforcats.com/
