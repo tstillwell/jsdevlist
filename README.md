@@ -6,7 +6,7 @@ MDN
 > https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
 MDN JS Guide
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
+> https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
 
 W3Schools
 > https://www.w3schools.com/JSREF/
