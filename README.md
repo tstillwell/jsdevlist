@@ -29,6 +29,9 @@ Thinkful js best practices
 
 ## Tutorials
 
+CodeAcademy Intro to Javascript
+> https://www.codecademy.com/learn/introduction-to-javascript
+
 Modern JavaScript Tutorial
 > https://javascript.info/
 
