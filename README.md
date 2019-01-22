@@ -2,7 +2,7 @@
 
 ## Online Docs
 
-MDN 
+MDN JS Reference
 > https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
 MDN JS Guide
