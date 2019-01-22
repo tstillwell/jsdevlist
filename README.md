@@ -8,6 +8,9 @@ MDN
 MDN JS Guide
 > https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
 
+MDN Client-side web APIs reference
+> https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs
+
 W3Schools
 > https://www.w3schools.com/JSREF/
 
