@@ -33,6 +33,9 @@ Thinkful js best practices
 
 > https://www.thinkful.com/learn/javascript-best-practices-2
 
+W3Schools JavaScript Best Practices List
+> https://www.w3schools.com/JS/js_best_practices.asp
+
 ## Tutorials
 
 CodeAcademy Intro to Javascript
