@@ -41,6 +41,9 @@ W3Schools JavaScript Best Practices List
 airbnb javascript style guide
 > https://github.com/airbnb/javascript
 
+Google Javascript Style Guide
+> https://google.github.io/styleguide/jsguide.html
+
 ## Tutorials
 
 CodeAcademy Intro to Javascript
