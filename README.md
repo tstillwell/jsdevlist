@@ -47,6 +47,9 @@ Google Javascript Style Guide
 Idiomatic JS Style guide
 > https://github.com/rwaldron/idiomatic.js/
 
+Standard JS style guide
+> https://github.com/standard/standard
+
 ## Tutorials
 
 CodeAcademy Intro to Javascript
