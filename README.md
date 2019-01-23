@@ -36,6 +36,11 @@ Thinkful js best practices
 W3Schools JavaScript Best Practices List
 > https://www.w3schools.com/JS/js_best_practices.asp
 
+## Style Guides
+
+airbnb javascript style guide
+> https://github.com/airbnb/javascript
+
 ## Tutorials
 
 CodeAcademy Intro to Javascript
