@@ -44,6 +44,9 @@ airbnb javascript style guide
 Google Javascript Style Guide
 > https://google.github.io/styleguide/jsguide.html
 
+Idiomatic JS Style guide
+> https://github.com/rwaldron/idiomatic.js/
+
 ## Tutorials
 
 CodeAcademy Intro to Javascript
