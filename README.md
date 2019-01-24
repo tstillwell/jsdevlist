@@ -58,6 +58,9 @@ JS testing overview
 JavaScript Unit Testing for Beginners
 > https://designmodo.com/test-javascript-unit/
 
+Smashing Magazine intro to js unit testing
+> https://www.smashingmagazine.com/2012/06/introduction-to-javascript-unit-testing/
+
 JS Unit testing guide
 > https://github.com/mawrkus/js-unit-testing-guide
 
