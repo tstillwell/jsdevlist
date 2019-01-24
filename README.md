@@ -41,10 +41,10 @@ W3Schools JavaScript Best Practices List
 airbnb javascript style guide
 > https://github.com/airbnb/javascript
 
-Google Javascript Style Guide
+Google Javascript style guide
 > https://google.github.io/styleguide/jsguide.html
 
-Idiomatic JS Style guide
+Idiomatic JS style guide
 > https://github.com/rwaldron/idiomatic.js/
 
 Standard JS style guide
