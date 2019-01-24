@@ -50,6 +50,11 @@ Idiomatic JS style guide
 Standard JS style guide
 > https://github.com/standard/standard
 
+## Testing Guides
+
+JS Unit testing guide
+> https://github.com/mawrkus/js-unit-testing-guide
+
 ## Tutorials
 
 CodeAcademy Intro to Javascript
