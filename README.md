@@ -75,6 +75,9 @@ Modern JavaScript Tutorial
 Stream Handbook
 > https://github.com/substack/stream-handbook
 
+Learn JSON web tokens
+> https://github.com/dwyl/learn-json-web-tokens
+
 ## Free Books
 
 Learning JavaScript Design Patterns by Addy Osmani
