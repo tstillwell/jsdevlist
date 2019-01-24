@@ -66,6 +66,9 @@ JS Unit testing guide
 
 ## Tutorials
 
+JavaScript by Examples
+> https://github.com/bmkmanoj/js-by-examples
+
 CodeAcademy Intro to Javascript
 > https://www.codecademy.com/learn/introduction-to-javascript
 
