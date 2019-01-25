@@ -81,6 +81,9 @@ Stream Handbook
 Learn JSON web tokens
 > https://github.com/dwyl/learn-json-web-tokens
 
+Learn You Node
+> https://github.com/workshopper/learnyounode
+
 ## Free Books
 
 Learning JavaScript Design Patterns by Addy Osmani
