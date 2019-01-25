@@ -84,6 +84,9 @@ Learn JSON web tokens
 Learn You Node
 > https://github.com/workshopper/learnyounode
 
+MDN Object Oriented JS Guide
+> https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS
+
 ## Free Books
 
 Learning JavaScript Design Patterns by Addy Osmani
