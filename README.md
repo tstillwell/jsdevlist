@@ -56,7 +56,7 @@ JS testing overview
 > https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2018-f68950900bc3
 
 JavaScript Unit Testing for Beginners
-> https://designmodo.com/test-javascript-unit/
+> https://designmodo.com/test-javascript-unit/0
 
 Smashing Magazine intro to js unit testing
 > https://www.smashingmagazine.com/2012/06/introduction-to-javascript-unit-testing/
@@ -94,6 +94,9 @@ MDN Object Oriented JS Guide
 > https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS
 
 ## Free Books
+
+Learn Javascript
+> https://gitbookio.gitbooks.io/javascript/content/
 
 Learning JavaScript Design Patterns by Addy Osmani
 > https://addyosmani.com/resources/essentialjsdesignpatterns/book/
