@@ -78,6 +78,9 @@ Modern JavaScript Tutorial
 JavaScript Promises: an Introduction
 > https://developers.google.com/web/fundamentals/primers/promises
 
+Service Workers Introduction
+> https://developers.google.com/web/fundamentals/primers/service-workers/
+
 Stream Handbook
 > https://github.com/substack/stream-handbook
 
