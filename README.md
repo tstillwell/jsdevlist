@@ -75,6 +75,9 @@ CodeAcademy Intro to Javascript
 Modern JavaScript Tutorial
 > https://javascript.info/
 
+JavaScript Promises: an Introduction
+> https://developers.google.com/web/fundamentals/primers/promises
+
 Stream Handbook
 > https://github.com/substack/stream-handbook
 
