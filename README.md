@@ -96,6 +96,9 @@ Node API documentation
 
 > https://nodejs.org/api/
 
+Node Getting Started Guide
+> https://nodejs.org/en/docs/guides/getting-started-guide/
+
 Learn You Node
 > https://github.com/workshopper/learnyounode
 
