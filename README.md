@@ -75,6 +75,9 @@ CodeAcademy Intro to Javascript
 Modern JavaScript Tutorial
 > https://javascript.info/
 
+Javascript Algorithms and data structures
+> https://github.com/trekhleb/javascript-algorithms
+
 JavaScript Promises: an Introduction
 > https://developers.google.com/web/fundamentals/primers/promises
 
