@@ -93,6 +93,12 @@ Learn You Node
 MDN Object Oriented JS Guide
 > https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS
 
+## Node Resources
+
+Node API documentation
+
+> https://nodejs.org/api/
+
 ## Free Books
 
 Learn Javascript
