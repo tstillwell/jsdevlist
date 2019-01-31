@@ -87,9 +87,6 @@ Stream Handbook
 Learn JSON web tokens
 > https://github.com/dwyl/learn-json-web-tokens
 
-Learn You Node
-> https://github.com/workshopper/learnyounode
-
 MDN Object Oriented JS Guide
 > https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS
 
@@ -98,6 +95,9 @@ MDN Object Oriented JS Guide
 Node API documentation
 
 > https://nodejs.org/api/
+
+Learn You Node
+> https://github.com/workshopper/learnyounode
 
 ## Free Books
 
