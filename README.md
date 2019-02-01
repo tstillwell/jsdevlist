@@ -127,6 +127,9 @@ JS Notes for Professionals
 Javascript Challenges by Tomas Corral
 > http://tcorral.github.io/javascript-challenges-book/
 
+JavaScript Patterns Collection by Shi Chuan
+> http://shichuan.github.io/javascript-patterns/
+
 Mixu's single page app book
 > http://singlepageappbook.com/
 
