@@ -160,3 +160,6 @@ JSConf - JS conference videos
 > https://www.youtube.com/user/jsconfeu/videos
 
 ## Blogs
+
+2ality - Dr. Axel Rauschmayer
+> http://2ality.com/
