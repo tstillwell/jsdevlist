@@ -158,3 +158,5 @@ Professor Frisby's Mostly Adequate Guide to Functional Programming
 
 JSConf - JS conference videos
 > https://www.youtube.com/user/jsconfeu/videos
+
+## Blogs
