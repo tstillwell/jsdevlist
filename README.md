@@ -164,3 +164,5 @@ JSConf - JS conference videos
 > http://2ality.com/
 
 > https://medium.com/@addyosmani
+
+> https://daveceddia.com/archives/
