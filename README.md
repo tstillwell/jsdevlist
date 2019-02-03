@@ -107,6 +107,9 @@ Node Guides
 Learn You Node
 > https://github.com/workshopper/learnyounode
 
+Node.js Notes for Professionals
+> https://books.goalkicker.com/NodeJSBook/
+
 ## Free Books
 
 Learn Javascript
