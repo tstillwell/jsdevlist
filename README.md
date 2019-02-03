@@ -174,3 +174,5 @@ JSConf - JS conference videos
 > https://javascriptplayground.com/
 
 > https://ponyfoo.com/
+
+> https://medium.com/@thejameskyle
