@@ -170,3 +170,5 @@ JSConf - JS conference videos
 > https://johnpapa.net/
 
 > https://www.robinwieruch.de/
+
+> https://javascriptplayground.com/
