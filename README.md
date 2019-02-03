@@ -176,3 +176,5 @@ JSConf - JS conference videos
 > https://ponyfoo.com/
 
 > https://medium.com/@thejameskyle
+
+> https://javascriptweekly.com/issues
