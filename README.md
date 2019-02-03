@@ -161,8 +161,6 @@ JSConf - JS conference videos
 
 ## Blogs
 
-2ality - Dr. Axel Rauschmayer
 > http://2ality.com/
 
-Addy Osmani
 > https://medium.com/@addyosmani
