@@ -104,6 +104,9 @@ Node Getting Started Guide
 Node Guides
 > https://nodejs.org/en/docs/guides/
 
+Node Docs
+> https://nodejs.org/en/docs/
+
 Learn You Node
 > https://github.com/workshopper/learnyounode
 
