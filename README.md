@@ -166,3 +166,5 @@ JSConf - JS conference videos
 > https://medium.com/@addyosmani
 
 > https://daveceddia.com/archives/
+
+> https://johnpapa.net/
