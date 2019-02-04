@@ -166,6 +166,7 @@ JSConf - JS conference videos
 > https://www.youtube.com/user/jsconfeu/videos
 
 ## Blogs
+> https://medium.com/javascript-scene
 
 > http://2ality.com/
 
