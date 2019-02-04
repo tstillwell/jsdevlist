@@ -188,3 +188,5 @@ JSConf - JS conference videos
 > https://blog.risingstack.com/
 
 > https://alligator.io/
+
+> https://medium.com/@_ericelliott
