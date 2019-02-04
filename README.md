@@ -184,3 +184,5 @@ JSConf - JS conference videos
 > https://medium.com/@thejameskyle
 
 > https://javascriptweekly.com/issues
+
+> https://blog.risingstack.com/
