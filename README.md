@@ -166,7 +166,6 @@ JSConf - JS conference videos
 > https://www.youtube.com/user/jsconfeu/videos
 
 ## Blogs
-> https://medium.com/javascript-scene
 
 > http://2ality.com/
 
@@ -191,3 +190,5 @@ JSConf - JS conference videos
 > https://alligator.io/
 
 > https://medium.com/@_ericelliott
+
+> https://medium.com/javascript-scene
