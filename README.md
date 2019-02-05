@@ -168,6 +168,9 @@ React JS Notes for Professionals
 JSConf - JS conference videos
 > https://www.youtube.com/user/jsconfeu/videos
 
+Kent Dodds videos
+> https://www.youtube.com/user/kentdoddsfamily/videos
+
 ## Blogs
 
 > http://2ality.com/
