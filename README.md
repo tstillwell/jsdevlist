@@ -171,6 +171,9 @@ JSConf - JS conference videos
 Kent Dodds videos
 > https://www.youtube.com/user/kentdoddsfamily/videos
 
+CodeWorkr videos
+> https://www.youtube.com/channel/UCfYTu_qAO5T7a-8rC_74Ypw/videos
+
 ## Blogs
 
 > http://2ality.com/
