@@ -36,6 +36,9 @@ Thinkful js best practices
 W3Schools JavaScript Best Practices List
 > https://www.w3schools.com/JS/js_best_practices.asp
 
+keycdn performance tips
+> https://www.keycdn.com/blog/javascript-performance
+
 ## Style Guides
 
 airbnb javascript style guide
