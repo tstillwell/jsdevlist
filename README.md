@@ -104,6 +104,9 @@ State of Javascript
 Awesome Javascript List
 > https://github.com/sorrycc/awesome-javascript
 
+Dev.to javascript community
+> https://dev.to/t/javascript
+
 ## Node Resources
 
 Node API documentation
