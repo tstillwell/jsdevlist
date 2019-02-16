@@ -101,6 +101,9 @@ MDN Object Oriented JS Guide
 State of Javascript
 > https://stateofjs.com/
 
+Awesome Javascript List
+> https://github.com/sorrycc/awesome-javascript
+
 ## Node Resources
 
 Node API documentation
