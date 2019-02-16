@@ -107,6 +107,9 @@ Awesome Javascript List
 Dev.to javascript community
 > https://dev.to/t/javascript
 
+Javascript subreddit
+> https://www.reddit.com/r/javascript
+
 ## Node Resources
 
 Node API documentation
