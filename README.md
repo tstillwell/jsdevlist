@@ -98,6 +98,9 @@ MDN Object Oriented JS Guide
 
 ## JS Community Resources
 
+State of Javascript
+> https://stateofjs.com/
+
 ## Node Resources
 
 Node API documentation
